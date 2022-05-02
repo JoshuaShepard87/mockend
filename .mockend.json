@@ -1,9 +1,4 @@
 {
-  "User": {
-    "title": { "string": {"Hello There"} }
-  },
-  
-{
   "Post": {
     "title": { "string": {} },
     "comments": {
@@ -16,5 +11,4 @@
       "belongsTo": "Post"
     }
   }
-}
 }
